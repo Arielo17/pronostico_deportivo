@@ -1,0 +1,14 @@
+com\arielo\pronostico_deportivo\servicios\CalculoPuntaje.class
+com\arielo\pronostico_deportivo\enumeraciones\ResultadoEnum.class
+com\arielo\pronostico_deportivo\excepciones\FaltanDatosExcepcion.class
+com\arielo\pronostico_deportivo\servicios\LectorArchivoCsv.class
+com\arielo\pronostico_deportivo\App.class
+com\arielo\pronostico_deportivo\excepciones\PuntajeExcepcion.class
+com\arielo\pronostico_deportivo\modelos\ResultadoCsv.class
+com\arielo\pronostico_deportivo\excepciones\NoExistePronosticoExcepcion.class
+com\arielo\pronostico_deportivo\servicios\CsvConvert.class
+com\arielo\pronostico_deportivo\modelos\Equipo.class
+com\arielo\pronostico_deportivo\modelos\Partido.class
+com\arielo\pronostico_deportivo\modelos\Ronda.class
+com\arielo\pronostico_deportivo\modelos\Jugador.class
+com\arielo\pronostico_deportivo\modelos\PronosticoCsv.class
